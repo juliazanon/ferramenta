@@ -1,0 +1,78 @@
+﻿<Window x:Class="ferramenta.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:gl="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF"
+        xmlns:local="clr-namespace:ferramenta"
+        mc:Ignorable="d"
+        Title="Ferramenta" MinHeight="450" MinWidth="800"
+        Keyboard.KeyDown="KeyDown">
+    <Grid Margin="12,0,12,0" ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="0"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" MinWidth="150"/>
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="4*" MinWidth="800"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Stretch" MinHeight="150"
+                   Grid.Row="1"  Stroke="Black" VerticalAlignment="top" Margin="5">
+            
+        </Rectangle>
+        <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="left"  VerticalAlignment="Top" Margin="10" 
+                   Text="Upload file" Name="tb" FontSize="14" TextWrapping="WrapWithOverflow"/>
+        
+        <Button Content="Open File" Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                Name="btnOpenFile" Click="OpenFileClick" Width="100" FontSize="18" IsEnabled="True" Focusable="False"/>
+        <Button Content="Clear All" Grid.Row="4" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" 
+                Name="btnClearAll" Click="ClearAllClick" Width="100" FontSize="18" IsEnabled="True" Focusable="False"/>
+        
+        <TextBlock Grid.Row="5" Grid.Column="0" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Displacement" 
+                   VerticalAlignment="Center" FontSize="20"/>
+        
+        <ComboBox Name="DisplacementCB" Grid.Row="6" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="center" 
+                  Width="120" SelectionChanged="DispCBChange" IsEnabled="True">
+            <ComboBoxItem Content="U" FontSize="16"></ComboBoxItem>
+            <ComboBoxItem Content="V" FontSize="16"></ComboBoxItem>
+            <ComboBoxItem Content="W" FontSize="16"></ComboBoxItem>
+        </ComboBox>
+        
+        <TextBlock Grid.Row="8" Grid.Column="0" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Helix" 
+                   VerticalAlignment="Center" FontSize="20"/>
+        
+        <ComboBox Grid.Row="9" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120"
+                  Name="HelixCB" IsEnabled="True">
+            <ComboBoxItem Content="Helix 1" FontSize="16"></ComboBoxItem>
+            <ComboBoxItem Content="Helix 2" FontSize="16"></ComboBoxItem>
+            <ComboBoxItem Content="Helix 3" FontSize="16"></ComboBoxItem>
+        </ComboBox>
+
+        <Button Grid.Row="11" Grid.Column="0" Content="Clear Display" HorizontalAlignment="Center"
+                VerticalAlignment="Center" Width="110" FontSize="18" Click="ClearButtonClick" Focusable="False"/>
+        <Button Grid.Row="12" Grid.Column="0" Content="Finish" HorizontalAlignment="Center"
+                VerticalAlignment="Center" Width="110" FontSize="18" Click="FinishButtonClick"
+                Name="finish_btn" IsEnabled="False" Focusable="False"/>
+
+        <GridSplitter Grid.Row="1" Grid.Column="1" Grid.RowSpan="12" Background="DarkGray"
+                      HorizontalAlignment="Center" VerticalAlignment="Stretch" Width="5" Focusable="False">
+        </GridSplitter>
+
+        <gl:OpenGLControl x:Name="GLControl" OpenGLDraw="OpenGLDraw" Grid.Row="1" Grid.RowSpan="11" Grid.Column="2"/>
+        <gl:OpenGLControl x:Name="ColorScaleControl" OpenGLDraw="DrawColorScale" Grid.Row="12" Grid.Column="2"/>
+    </Grid>
+</Window>

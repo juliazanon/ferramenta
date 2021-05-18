@@ -1,0 +1,88 @@
+D:\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe.config
+D:\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe
+D:\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.pdb
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csprojAssemblyReference.cache
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.g.cs
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\App.g.cs
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.cache
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.lref
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.baml
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.g.resources
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.Properties.Resources.resources
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.GenerateResource.cache
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CoreCompileInputs.cache
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.exe
+D:\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.g.cs
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\App.g.cs
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.cache
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.lref
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.baml
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.g.resources
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.exe
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.dll
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.WPF.dll
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\System.Drawing.Common.dll
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.xml
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.WPF.xml
+C:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CopyComplete
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe.config
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.pdb
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.dll
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.SceneGraph.dll
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.WPF.dll
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\System.Drawing.Common.dll
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.xml
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.SceneGraph.xml
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.WPF.xml
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csprojAssemblyReference.cache
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.g.cs
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\App.g.cs
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.cache
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.lref
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.baml
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.g.resources
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.Properties.Resources.resources
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.GenerateResource.cache
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CoreCompileInputs.cache
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CopyComplete
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.exe
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.pdb
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\GlmNet.dll
+D:\Users\julia\OneDrive\Área de Trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\GlmNet.xml
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe.config
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.exe
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\ferramenta.pdb
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\GlmNet.dll
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.dll
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.SceneGraph.dll
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.WPF.dll
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\System.Drawing.Common.dll
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\GlmNet.xml
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.xml
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.SceneGraph.xml
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\bin\Debug\SharpGL.WPF.xml
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csprojAssemblyReference.cache
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.g.cs
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\App.g.cs
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.cache
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta_MarkupCompile.lref
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\MainWindow.baml
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.g.resources
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.Properties.Resources.resources
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.GenerateResource.cache
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CoreCompileInputs.cache
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.csproj.CopyComplete
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.exe
+D:\Users\julia\OneDrive\Área de Trabalho\Área de trabalho\IC\programas\ferramenta\ferramenta\obj\Debug\ferramenta.pdb
